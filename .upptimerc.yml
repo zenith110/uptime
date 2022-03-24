@@ -24,9 +24,9 @@ status-website:
   introTitle: ""
   introMessage: 
   navbar:
-    - title: Status
+    - title: Portfolio
       href: https://www.abrahannevarez.dev
-    - title: GitHub
+    - title: Upptime Github
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
