@@ -13,6 +13,8 @@ sites:
     url: https://api.pubsub-api.dev/apidocs/
   - name: Pubsub Graphql
     url: https://graphql.pubsub-api.dev/
+  - name: Admin Panel
+    url: https://admin.abrahannevarez.dev/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
