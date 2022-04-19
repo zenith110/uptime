@@ -40,9 +40,9 @@
     "url": "https://www.pubsub-api.dev/",
     "icon": "https://favicons.githubusercontent.com/www.pubsub-api.dev",
     "slug": "pubsub-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +51,18 @@
     "timeWeek": 264,
     "timeMonth": 261,
     "timeYear": 261,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-19": 0
+    }
   },
   {
     "name": "Pubsub Api",
     "url": "https://api.pubsub-api.dev/apidocs/",
     "icon": "https://favicons.githubusercontent.com/api.pubsub-api.dev",
     "slug": "pubsub-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,14 +71,16 @@
     "timeWeek": 304,
     "timeMonth": 316,
     "timeYear": 316,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-19": 0
+    }
   },
   {
     "name": "Pubsub Graphql",
     "url": "https://graphql.pubsub-api.dev/",
     "icon": "https://favicons.githubusercontent.com/graphql.pubsub-api.dev",
     "slug": "pubsub-graphql",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -87,7 +91,9 @@
     "timeWeek": 269,
     "timeMonth": 288,
     "timeYear": 288,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-19": 0
+    }
   },
   {
     "name": "Admin Panel",
