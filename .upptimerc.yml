@@ -7,12 +7,6 @@ sites:
     url: https://www.abrahannevarez.dev
   - name: Portfolio Graphql
     url: https://graphql.abrahannevarez.dev
-  - name: Pubsub Frontend
-    url: https://www.pubsub-api.dev/
-  - name: Pubsub Api
-    url: https://api.pubsub-api.dev/apidocs/
-  - name: Pubsub Graphql
-    url: https://graphql.pubsub-api.dev/
   - name: Admin Panel
     url: https://admin.abrahannevarez.dev/
 
