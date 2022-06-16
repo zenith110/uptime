@@ -4,36 +4,40 @@
     "url": "https://www.abrahannevarez.dev",
     "icon": "https://favicons.githubusercontent.com/www.abrahannevarez.dev",
     "slug": "portfolio-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 131,
-    "timeWeek": 163,
+    "timeDay": 143,
+    "timeWeek": 162,
     "timeMonth": 167,
     "timeYear": 177,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-16": 0
+    }
   },
   {
     "name": "Portfolio Graphql",
     "url": "https://graphql.abrahannevarez.dev",
     "icon": "https://favicons.githubusercontent.com/graphql.abrahannevarez.dev",
     "slug": "portfolio-graphql",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 196,
-    "timeDay": 175,
-    "timeWeek": 188,
-    "timeMonth": 182,
-    "timeYear": 196,
-    "dailyMinutesDown": {}
+    "time": 195,
+    "timeDay": 146,
+    "timeWeek": 180,
+    "timeMonth": 180,
+    "timeYear": 195,
+    "dailyMinutesDown": {
+      "2022-06-16": 0
+    }
   },
   {
     "name": "Admin Panel",
