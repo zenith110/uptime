@@ -4,18 +4,19 @@
     "url": "https://www.abrahannevarez.dev",
     "icon": "https://favicons.githubusercontent.com/www.abrahannevarez.dev",
     "slug": "portfolio-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 178,
-    "timeDay": 126,
+    "timeDay": 149,
     "timeWeek": 174,
     "timeMonth": 172,
     "timeYear": 178,
     "dailyMinutesDown": {
+      "2022-06-21": 2,
       "2022-06-16": 25
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://graphql.abrahannevarez.dev",
     "icon": "https://favicons.githubusercontent.com/graphql.abrahannevarez.dev",
     "slug": "portfolio-graphql",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
@@ -36,6 +37,7 @@
     "timeMonth": 180,
     "timeYear": 195,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-06-16": 25
     }
   },
