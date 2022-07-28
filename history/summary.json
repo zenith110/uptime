@@ -50,9 +50,9 @@
     "url": "https://admin.abrahannevarez.dev/",
     "icon": "https://favicons.githubusercontent.com/admin.abrahannevarez.dev",
     "slug": "admin-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -61,6 +61,8 @@
     "timeWeek": 110,
     "timeMonth": 172,
     "timeYear": 173,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-28": 0
+    }
   }
 ]
